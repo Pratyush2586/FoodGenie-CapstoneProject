@@ -1,0 +1,35 @@
+        # Set Configuration Settings
+        prediction_endpoint = 'https://foodgeniecv-prediction.cognitiveservices.azure.com/'
+        prediction_key = 'a766c4271ccd40fbbda4ca11ca1406a2'  # Replace with your actual key
+        project_id = 'bc56c2ed-4d0f-4eb1-ba5c-e6ce106bfc8c'  # Replace with your actual project ID
+        model_name = 'Foodgenie_Recipe1M'  # Replace with your actual model name
+		
+		
+		        # Set Configuration Settings Indianfood
+        prediction_endpoint = 'https://foodgenieindian-prediction.cognitiveservices.azure.com/'
+        prediction_key = '4cf728387209453c8b903d93a7416597'  # Replace with your actual key
+        project_id = 'f89acc57-25d2-411f-9558-be455d2469e2'  # Replace with your actual project ID
+        model_name = 'FoodGenieIndian'  # Replace with your actual model name
+
+
+
+        # Set Configuration Settings-Ingredients
+        prediction_endpoint = 'https://foodgeniecv-prediction.cognitiveservices.azure.com/'
+        prediction_key = 'a766c4271ccd40fbbda4ca11ca1406a2'  # Replace with your actual key
+        project_id = '3deac33d-ab06-43cb-bbd9-65e6219d8f19'  # Replace with your actual project ID
+        model_name = 'IngredientsTrial'  # Replace with your actual model name
+
+
+---------------Quick Training--------------------Classification Vidyasagar account
+        # Set Configuration Settings
+        prediction_endpoint = 'https://foodgeniecv-prediction.cognitiveservices.azure.com/'
+        prediction_key = 'a766c4271ccd40fbbda4ca11ca1406a2'  # Replace with your actual key
+        project_id = 'bc56c2ed-4d0f-4eb1-ba5c-e6ce106bfc8c'  # Replace with your actual project ID
+        model_name = 'Foodgenie_Recipe1M'  # Replace with your actual model name
+---
+Food Ingridents:
+Published as: Iteration1
+5e7bde61-a8da-4278-bf1f-b212c105829b
+https://foodgenieingredients-prediction.cognitiveservices.azure.com/
+Key: eac8e06110b74b5a868f3488f1ec17da
+

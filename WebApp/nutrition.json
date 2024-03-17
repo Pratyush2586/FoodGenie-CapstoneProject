@@ -1,0 +1,162 @@
+{
+    "burger": {
+        "name": "burger",
+        "category": "Food",
+        "calories": 295,
+        "protein_g": 17,
+        "carbohydrates_g": 33,
+        "fat_g": 11
+    },
+    "butter_naan": {
+        "name": "butter_naan",
+        "category": "Food",
+        "calories": 260,
+        "protein_g": 6,
+        "carbohydrates_g": 42,
+        "fat_g": 7
+    },
+    "chai": {
+        "name": "chai",
+        "category": "Food",
+        "calories": 60,
+        "protein_g": 1,
+        "carbohydrates_g": 10,
+        "fat_g": 2
+    },
+    "chapati": {
+        "name": "chapati",
+        "category": "Food",
+        "calories": 104,
+        "protein_g": 3,
+        "carbohydrates_g": 18,
+        "fat_g": 2
+    },
+    "chole_bhature": {
+        "name": "chole_bhature",
+        "category": "Food",
+        "calories": 450,
+        "protein_g": 12,
+        "carbohydrates_g": 49,
+        "fat_g": 20
+    },
+    "dal_makhani": {
+        "name": "dal_makhani",
+        "category": "Food",
+        "calories": 245,
+        "protein_g": 12,
+        "carbohydrates_g": 30,
+        "fat_g": 9
+    },
+    "dhokla": {
+        "name": "dhokla",
+        "category": "Food",
+        "calories": 160,
+        "protein_g": 4,
+        "carbohydrates_g": 18,
+        "fat_g": 8
+    },
+    "fried_rice": {
+        "name": "fried_rice",
+        "category": "Food",
+        "calories": 235,
+        "protein_g": 4,
+        "carbohydrates_g": 45,
+        "fat_g": 4
+    },
+    "idli": {
+        "name": "idli",
+        "category": "Food",
+        "calories": 39,
+        "protein_g": 2,
+        "carbohydrates_g": 8,
+        "fat_g": 0
+    },
+    "jalebi": {
+        "name": "jalebi",
+        "category": "Food",
+        "calories": 150,
+        "protein_g": 1,
+        "carbohydrates_g": 24,
+        "fat_g": 6
+    },
+    "kaathi_rolls": {
+        "name": "kaathi_rolls",
+        "category": "Food",
+        "calories": 350,
+        "protein_g": 15,
+        "carbohydrates_g": 34,
+        "fat_g": 18
+    },
+    "kadai_paneer": {
+        "name": "kadai_paneer",
+        "category": "Food",
+        "calories": 363,
+        "protein_g": 22,
+        "carbohydrates_g": 9,
+        "fat_g": 29
+    },
+    "kulfi": {
+        "name": "kulfi",
+        "category": "Food",
+        "calories": 220,
+        "protein_g": 5,
+        "carbohydrates_g": 24,
+        "fat_g": 11
+    },
+    "masala_dosa": {
+        "name": "masala_dosa",
+        "category": "Food",
+        "calories": 120,
+        "protein_g": 3,
+        "carbohydrates_g": 18,
+        "fat_g": 5
+    },
+    "momos": {
+        "name": "momos",
+        "category": "Food",
+        "calories": 35,
+        "protein_g": 3,
+        "carbohydrates_g": 4,
+        "fat_g": 1
+    },
+    "paani_puri": {
+        "name": "paani_puri",
+        "category": "Food",
+        "calories": 10,
+        "protein_g": 0,
+        "carbohydrates_g": 2,
+        "fat_g": 0
+    },
+    "pakode": {
+        "name": "pakode",
+        "category": "Food",
+        "calories": 300,
+        "protein_g": 8,
+        "carbohydrates_g": 35,
+        "fat_g": 15
+    },
+    "pav_bhaji": {
+        "name": "pav_bhaji",
+        "category": "Food",
+        "calories": 600,
+        "protein_g": 12,
+        "carbohydrates_g": 75,
+        "fat_g": 25
+    },
+    "pizza": {
+        "name": "pizza",
+        "category": "Food",
+        "calories": 285,
+        "protein_g": 12,
+        "carbohydrates_g": 36,
+        "fat_g": 10
+    },
+    "samosa": {
+        "name": "samosa",
+        "category": "Food",
+        "calories": 308,
+        "protein_g": 4,
+        "carbohydrates_g": 30,
+        "fat_g": 18
+    }
+}
